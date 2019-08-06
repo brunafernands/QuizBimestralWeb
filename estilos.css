@@ -1,0 +1,37 @@
+body {
+	margin-bottom: 50px;
+}
+
+.jumbotron {
+	background-image: url(Img/joey.png);
+}
+
+h1{
+	color: #FFFFFF;
+  	text-shadow: 4px 4px 8px #000000;
+}
+
+img{
+	border-radius: 15%;
+	width: 60px;
+}
+.margem {
+	margin-bottom: 5px;
+}
+
+.margem:first-of-type {
+	margin-top: 10px;
+}
+
+.margem:last-of-type {
+	margin-bottom: 25px;
+}
+
+.card {
+	border-radius: 10px;
+}
+
+.box{
+	background-image: url(Img/joey.png)
+
+}
